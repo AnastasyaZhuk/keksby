@@ -489,12 +489,12 @@ body {
   margin-bottom: 15px;
 }
 
-.feedback-form-group-left-part {
-  float: left;
-}
-
 .feedback-form-group-right-part {
   float: right;
+}
+
+.feedback-form-group-left-part {
+  float: left;
 }
 
 .feedback-form-group-left-part,
